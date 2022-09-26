@@ -3,5 +3,5 @@ A .NET 6 Minimal API project created as an example for the article I produced fo
 
 ## Technologies used in this project:
 - .NET 6
-
+- Minimal API
 To run this project locally you need to have the .NET 6 SDK installed.
